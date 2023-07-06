@@ -11,12 +11,11 @@ Finally, thank you all members for supporting us! Even we have shortcomings, suc
 
 Players can download the survival maps of different seasons and the Sun Knights Happy Christmas Resource Pack. You can learn about our latest news on Discord.
 
-Useful Links
-Check out our teleportation Portals
-Discord: https://discord.gg/hM4uWAx
-SK Main Discord: https://discord.gg/37euua2
+Useful Links <br>
+Check out our teleportation Portals <br>
+Discord: https://discord.gg/hM4uWAx <br>
+SK Main Discord: https://discord.gg/37euua2 <br>
 Zalgo Minecraft Server IP: mc.zalgos.xyz (1.19 + bedrock)
-Players can download the survival maps of different seasons here: https://jimmychuichui-my.sharepoint.com/:f:/g/personal/vps_entrenix_ml/EqeSVsYabdNKvqCAkY9yBE8BsmEIgfSkTlvFnGWQuZPVGA?e=tlVfsg
 
 We are welcome to answer if you have any question. We hope to see you again in the unknown future.
 
