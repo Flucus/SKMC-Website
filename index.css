@@ -5,7 +5,7 @@ html {
 	align-items:     center;
 	font-family:     sans-serif;
 	color:           #eee;
-	background:      black url("bg.jpg") no-repeat fixed center;
+	background:      black url("bg.png") no-repeat fixed center;
 	background-size: cover;
 }
 
